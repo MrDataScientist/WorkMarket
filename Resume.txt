@@ -1,0 +1,37 @@
+Santiago Gonzalez 		 
+Permanent: 12858 Spirit Bound Way, Charlotte, NC 28273		Email: sxg611@case.edu
+Cell Phone: 980.428.2706   						Github: https://github.com/sxg611
+Education
+Oberlin College, Class of 2016 
+B.A. 3-2 Engineering		GPA: 3.11	
+Case Western Reserve University, Class of 2016
+B.S. Systems and Control Engineering	  GPA: 3.22	
+Relevant Coursework: Multivariate Analysis and Data Mining, Signals and Systems, Signal Processing, Statistics for Signal Processing, Modeling and Simulation of Continuous Dynamical Systems, Engineering Optimization, Engineering Economics and Decision Making, Powers Systems Analysis I, Control Engineering I
+Relevant Experience
+Research Assistant, University of Pennsylvania				      May 2015-August 2015
+•	Served as paid research assistant to professor Rahul Mangharam
+•	Created a framework for data preprocessing which takes historical data files from any Penn building and processes them to create suitable structures for training of data-driven models. 
+•	Developed the capability to perform queries on random forest algorithm to get insights into building energy consumption 
+•	Began to develop a voice-user interface for DR-Advisor tool using AWS and the Amazon Echo
+•	DR-Advisor Webpage: http://mlab.seas.upenn.edu/dr-advisor/
+Research Assistant, Oberlin College Physics Department		     June 2014-August 2014
+•	Served as paid research assistant to professor John Scofield
+•	Devised LabVIEW program that used EPA methodology to benchmark commercial buildings’ energy consumption 
+•	Calculated and analyzed LEED Energy Star scores for over 14,000 New York City commercial buildings
+Finance Manager, Solarity 							          Aug 2013-June 2014 
+•	Served as fundraising manager for student organization that hosts multi-media events in spaces transformed into unique venues through environmental design
+•	Led fundraising and budget management for event that raised over $20,000 
+Tutor, Oberlin College Student Academic Services				Jan 2013-May 2013
+•	Served as tutor for Calculus classes
+•	Met with student weekly to explain material covered in class and aid with problem sets
+Mechanic, Oberlin Bike Cooperative					          Aug 2012-June 2014 
+•	Assisted and taught students on how to repair and service bicycles 
+•	Built bicycles from spare parts to add to the Rent-a-Bike program
+•	Set up a framework to keep of track of parts and volunteer’s hours 
+Additional Experience
+Member of Oberlin College Varsity Men’s Soccer team (2011- 2014) 
+Waiter at The Rathskellar restaurant (2012- 2014)
+Langston Middle School Spanish Tutor (Jan 2013)
+Skills 
+Fluent in Spanish
+Proficiency in Python, MATLAB, R, SQL, LabVIEW, Git, Microsoft Office 
